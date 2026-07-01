@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0330/x/v1/juan/0
+seq: 0
+front:
+  text: 雪巖師可謂鼻端眼正矣以無準為之父以高峯為之子父作之子述之觀其所從來又觀其所付授則巖之道可知矣雖然良馬不待驅策望見鞭影而馳獅子無法教兒直向懸崖一拶諸人若能於文采未彰一字已多之前一刀兩段薦取便見三老卓卓巍巍長在諸人門面上放大寶光轉大法輪一生參學事畢矣不然刻舟求劒待兔守株併一𠕋巨編都成鬼神茶飯去也余不解禪戲論如此巖門人持師語録來漫題編端大德二年三月上浣性存真逸家之巽書雪巖和尚語録目次卷第一潭州龍興禪寺語録湘西道林禪寺語録處州南明佛日禪寺語録台州仙居護聖禪寺語録湖州光孝禪寺語録袁州仰山禪寺語録卷第二普說卷第三舉古卷第四法語書序銘偈頌自讚跋補遺
+  hash: sha256:229471c5d948400d3fd836e354a5dd73b0c928b883ff1a095e98ed1815f0f7b9
+  markers:
+  - {type: 序, offset: 0, content: No. 1397-A, id: KR6q0330_X_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 182, content: 雪巖和尚語錄目次, id: KR6q0330_X_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雪巖祖欽禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1397.xml
+    old_id: X70n1397
+hash: sha256:41129899b750a51cf8cdb2b0faf4d209653b755f1f15064246ef71b13605344d
